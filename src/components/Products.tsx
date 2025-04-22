@@ -5,7 +5,7 @@ const Products = () => {
     {
       id: 2,
       name: "Wood-Pressed Organic Black Mustard Oil",
-      image: "/public/blackmustard.jpeg",
+      image: "blackmustard.jpeg",
       description: "Premium black mustard oil extracted using traditional wood-pressing methods to retain maximum nutritional value.",
       benefits: ["High pungency", "Rich aroma", "Traditional process", "Pure & natural"]
     },
@@ -19,7 +19,7 @@ const Products = () => {
     {
       id: 4,
       name: "Wood-Pressed Organic Sesame Oil",
-      image: "/public/seasame.jpeg",
+      image: "seasame.jpeg",
       description: "Traditional wood-pressed sesame oil rich in natural antioxidants and authentic flavor.",
       benefits: ["Rich in minerals", "Traditional process", "Chemical-free", "Pure aroma"]
     }

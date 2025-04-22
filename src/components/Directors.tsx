@@ -17,7 +17,7 @@ const Directors = () => {
             <div className="flex flex-col sm:flex-row items-center sm:items-start">
               <div className="w-24 h-24 rounded-full bg-trupahadi-earth-light flex-shrink-0 mb-4 sm:mb-0 sm:mr-6">
                 <img
-                  src="public/director.JPG"
+                  src="director.JPG"
                   alt="Mr. Madhuvardhan Saxena"
                   className="w-full h-full object-cover rounded-full"
                 />
