@@ -56,7 +56,7 @@ const Founder = () => {
             <div className="relative">
               <div className="w-72 h-72 md:w-80 md:h-80 rounded-full bg-trupahadi-earth opacity-20 absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2"></div>
               <img 
-                src="public/bhaiya.jpeg" 
+                src="/public/bhaiya.jpeg" 
                 alt="Founder Parth Vardhan Saxena" 
                 className="w-64 h-64 md:w-72 md:h-72 object-cover rounded-full border-8 border-white shadow-xl relative z-10"
               />
